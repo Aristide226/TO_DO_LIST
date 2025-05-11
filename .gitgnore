@@ -1,0 +1,17 @@
+# === BACKEND (Spring Boot) ===
+/backend/target/
+/backend/.idea/
+/backend/.classpath
+/backend/.project
+/backend/.settings/
+/backend/src/main/resources/application.properties
+
+# === FRONTEND (React) ===
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+
+# === GLOBAL ===
+.DS_Store
+Thumbs.db
+*.log
